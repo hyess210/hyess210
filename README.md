@@ -1,10 +1,11 @@
-![header](https://HYESEON.vercel.app/api?type=slice&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+##### HYESEON:sunny:
 
 ## :sparkles:Interest
 >> Front-End technologies such as Typescript, Javascript, React, SCSS, HTML, CSS
+
 >> UI / UX Design
 
 ## :speech_balloon:Stats
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyess210&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyess210&show_icons=true&theme=buefy)
