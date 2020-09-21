@@ -1,4 +1,4 @@
-![header](https://### :computer:HYESEON:sunny:.vercel.app/api?type=egg&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+![header](https://:computer:HYESEON:sunny:.vercel.app/api?type=egg&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 
 ## :sparkles:Interest
 >> Front-End technologies such as Typescript, Javascript, React, SCSS, HTML, CSS
