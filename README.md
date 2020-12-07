@@ -24,7 +24,7 @@
   + CSS
 
 + 🎨UI / UX Design
-  + Adobe XD, Photoshop, Illustraitor
+  + Adobe XD, Photoshop, Illustrator
 
 ## :speech_balloon:Stats
  
