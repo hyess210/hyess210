@@ -22,10 +22,7 @@
     + SCSS
   + HTML
   + CSS
-
-+ 🎨UI / UX Design
-  + Adobe XD, Photoshop, Illustrator
-
+    
 ## :speech_balloon:Stats
  
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyess210&show_icons=true&theme=buefy)
